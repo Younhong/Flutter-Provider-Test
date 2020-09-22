@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Testing
+1. flutter test test/models/favorites_test.dart 
+2. flutter run test/home_test.dart
+3. flutter run test/favorites_test.dart
+4. flutter drive --target=test_driver/app.dart
+
